@@ -1,3 +1,1 @@
-# drone-ecr-pull
-
-
+# drone-ecr-auth
